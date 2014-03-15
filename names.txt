@@ -1,4 +1,3 @@
-Alice
 Billy
 Ramon
 Bob
